@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\bin\Debug\MatrixDeterminant.exe
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\bin\Debug\MatrixDeterminant.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\bin\Debug\MatrixDeterminant.xml
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.exe
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.xml
+C:\Users\HP\AppData\Local\Temporary Projects\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\bin\Debug\MatrixDeterminant.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\bin\Debug\MatrixDeterminant.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\bin\Debug\MatrixDeterminant.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\MatrixDeterminant\MatrixDeterminant\obj\x86\Debug\MatrixDeterminant.vbproj.GenerateResource.Cache

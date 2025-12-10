@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\bin\Debug\SimpleCalculatorTwo.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\bin\Debug\SimpleCalculatorTwo.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\bin\Debug\SimpleCalculatorTwo.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\Olowu.vbproj.GenerateResource.Cache

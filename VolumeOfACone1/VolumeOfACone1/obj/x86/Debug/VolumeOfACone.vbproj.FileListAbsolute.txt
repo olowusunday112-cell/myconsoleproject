@@ -1,0 +1,8 @@
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\bin\Debug\VolumeOfACone.exe
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\bin\Debug\VolumeOfACone.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\bin\Debug\VolumeOfACone.xml
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\obj\x86\Debug\VolumeOfACone.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\obj\x86\Debug\VolumeOfACone.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\obj\x86\Debug\VolumeOfACone.exe
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\obj\x86\Debug\VolumeOfACone.xml
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfACone\obj\x86\Debug\VolumeOfACone.pdb

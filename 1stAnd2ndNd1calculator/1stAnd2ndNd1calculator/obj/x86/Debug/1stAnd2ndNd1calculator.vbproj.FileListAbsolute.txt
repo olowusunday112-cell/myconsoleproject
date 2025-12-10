@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\bin\Debug\1stAnd2ndNd1calculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\bin\Debug\1stAnd2ndNd1calculator.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\bin\Debug\1stAnd2ndNd1calculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\obj\x86\Debug\_1stAnd2ndNd1calculator.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\bin\Debug\1stAnd2ndNd1calculator.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\bin\Debug\1stAnd2ndNd1calculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\bin\Debug\1stAnd2ndNd1calculator.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\obj\x86\Debug\_1stAnd2ndNd1calculator.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\1stAnd2ndNd1calculator\1stAnd2ndNd1calculator\obj\x86\Debug\1stAnd2ndNd1calculator.vbproj.GenerateResource.Cache

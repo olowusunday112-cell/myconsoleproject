@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\bin\Debug\SimpleFunction.exe
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\bin\Debug\SimpleFunction.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\bin\Debug\SimpleFunction.xml
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\obj\x86\Debug\SimpleFunction.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\obj\x86\Debug\SimpleFunction.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\obj\x86\Debug\SimpleFunction.exe
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\obj\x86\Debug\SimpleFunction.xml
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleFunction\obj\x86\Debug\SimpleFunction.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\obj\x86\Debug\SimpleFunction.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\obj\x86\Debug\SimpleFunction.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\obj\x86\Debug\SimpleFunction.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\bin\Debug\SimpleFunction.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\bin\Debug\SimpleFunction.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\bin\Debug\SimpleFunction.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\obj\x86\Debug\SimpleFunction.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleFunction\SimpleFunction\obj\x86\Debug\SimpleFunction.vbproj.GenerateResource.Cache

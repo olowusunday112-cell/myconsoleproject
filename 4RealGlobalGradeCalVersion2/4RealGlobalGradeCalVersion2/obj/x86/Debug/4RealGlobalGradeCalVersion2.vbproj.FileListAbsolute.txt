@@ -1,0 +1,10 @@
+C:\Users\HP\AppData\Local\Temporary Projects\4RealGlobalGradeCalVersion2\obj\x86\Debug\_4RealGlobalGradeCalVersion2.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\4RealGlobalGradeCalVersion2\obj\x86\Debug\4RealGlobalGradeCalVersion2.vbproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\obj\x86\Debug\_4RealGlobalGradeCalVersion2.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\obj\x86\Debug\4RealGlobalGradeCalVersion2.vbproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\bin\Debug\4RealGlobalGradeCalVersion2.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\bin\Debug\4RealGlobalGradeCalVersion2.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\bin\Debug\4RealGlobalGradeCalVersion2.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\obj\x86\Debug\4RealGlobalGradeCalVersion2.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\obj\x86\Debug\4RealGlobalGradeCalVersion2.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\4RealGlobalGradeCalVersion2\4RealGlobalGradeCalVersion2\obj\x86\Debug\4RealGlobalGradeCalVersion2.pdb

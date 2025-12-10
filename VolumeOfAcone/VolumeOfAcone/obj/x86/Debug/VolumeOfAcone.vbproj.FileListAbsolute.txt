@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\bin\Debug\VolumeOfAcone.exe
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\bin\Debug\VolumeOfAcone.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\bin\Debug\VolumeOfAcone.xml
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.exe
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.xml
+C:\Users\HP\AppData\Local\Temporary Projects\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\bin\Debug\VolumeOfAcone.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\bin\Debug\VolumeOfAcone.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\bin\Debug\VolumeOfAcone.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\VolumeOfAcone\VolumeOfAcone\obj\x86\Debug\VolumeOfAcone.vbproj.GenerateResource.Cache

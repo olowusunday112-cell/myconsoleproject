@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\obj\x86\Debug\ageCal.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\obj\x86\Debug\ageCal.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\bin\Debug\ageCal.exe
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\bin\Debug\ageCal.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\bin\Debug\ageCal.xml
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\obj\x86\Debug\ageCal.exe
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\obj\x86\Debug\ageCal.xml
+C:\Users\HP\AppData\Local\Temporary Projects\ageCal\obj\x86\Debug\ageCal.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\obj\x86\Debug\ageCal.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\obj\x86\Debug\ageCal.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\obj\x86\Debug\ageCal.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\bin\Debug\ageCal.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\bin\Debug\ageCal.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\bin\Debug\ageCal.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\obj\x86\Debug\ageCal.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ageCal\ageCal\obj\x86\Debug\ageCal.vbproj.GenerateResource.Cache

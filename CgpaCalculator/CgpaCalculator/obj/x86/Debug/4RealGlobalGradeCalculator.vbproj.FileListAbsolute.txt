@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\bin\Debug\CgpaCalculator.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\bin\Debug\CgpaCalculator.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\bin\Debug\CgpaCalculator.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\4RealGlobalGradeCalculator.vbproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\bin\Debug\FractionOfTwoNumber.exe
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\bin\Debug\FractionOfTwoNumber.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\bin\Debug\FractionOfTwoNumber.xml
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.exe
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.xml
+C:\Users\HP\AppData\Local\Temporary Projects\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\bin\Debug\FractionOfTwoNumber.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\bin\Debug\FractionOfTwoNumber.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\bin\Debug\FractionOfTwoNumber.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\FractionOfTwoNumber\FractionOfTwoNumber\obj\x86\Debug\FractionOfTwoNumber.vbproj.GenerateResource.Cache

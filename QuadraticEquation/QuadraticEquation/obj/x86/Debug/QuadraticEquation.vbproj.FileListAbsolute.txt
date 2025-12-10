@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\bin\Debug\QuadraticEquation.xml
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\obj\x86\Debug\QuadraticEquation.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\obj\x86\Debug\QuadraticEquation.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\obj\x86\Debug\QuadraticEquation.exe
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\obj\x86\Debug\QuadraticEquation.xml
+C:\Users\HP\AppData\Local\Temporary Projects\QuadraticEquation\obj\x86\Debug\QuadraticEquation.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\QuadraticEquation\QuadraticEquation\obj\x86\Debug\QuadraticEquation.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\QuadraticEquation\QuadraticEquation\obj\x86\Debug\QuadraticEquation.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\QuadraticEquation\QuadraticEquation\obj\x86\Debug\QuadraticEquation.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\QuadraticEquation\QuadraticEquation\obj\x86\Debug\QuadraticEquation.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\QuadraticEquation\QuadraticEquation\obj\x86\Debug\QuadraticEquation.vbproj.GenerateResource.Cache

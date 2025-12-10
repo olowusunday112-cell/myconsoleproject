@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\bin\Debug\NationalDiplomaCgpaCalculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\bin\Debug\NationalDiplomaCgpaCalculator.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\bin\Debug\NationalDiplomaCgpaCalculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\bin\Debug\NationalDiplomaCgpaCalculator.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\bin\Debug\NationalDiplomaCgpaCalculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\bin\Debug\NationalDiplomaCgpaCalculator.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\NationalDiplomaCgpaCalculator\NationalDiplomaCgpaCalculator\obj\x86\Debug\NationalDiplomaCgpaCalculator.vbproj.GenerateResource.Cache

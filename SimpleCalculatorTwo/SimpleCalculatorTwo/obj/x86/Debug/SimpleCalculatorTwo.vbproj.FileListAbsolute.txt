@@ -1,0 +1,11 @@
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\bin\Debug\SimpleCalculatorTwo.exe
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\bin\Debug\SimpleCalculatorTwo.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\bin\Debug\SimpleCalculatorTwo.xml
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.exe
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.xml
+C:\Users\HP\AppData\Local\Temporary Projects\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\SimpleCalculatorTwo\SimpleCalculatorTwo\obj\x86\Debug\SimpleCalculatorTwo.pdb

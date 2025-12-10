@@ -1,0 +1,8 @@
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\bin\Debug\VolumeOfACone1.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\bin\Debug\VolumeOfACone1.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\bin\Debug\VolumeOfACone1.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\obj\x86\Debug\VolumeOfACone.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\obj\x86\Debug\VolumeOfACone1.vbproj.GenerateResource.Cache
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\obj\x86\Debug\VolumeOfACone1.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\obj\x86\Debug\VolumeOfACone1.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\VolumeOfACone1\VolumeOfACone1\obj\x86\Debug\VolumeOfACone1.pdb

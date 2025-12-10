@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\obj\x86\Debug\ProductOf_TwoNumber.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\bin\Debug\ProductOf TwoNumber.exe
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\bin\Debug\ProductOf TwoNumber.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\bin\Debug\ProductOf TwoNumber.xml
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.exe
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.xml
+C:\Users\HP\AppData\Local\Temporary Projects\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\obj\x86\Debug\ProductOf_TwoNumber.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\obj\x86\Debug\ProductOf TwoNumber.vbproj.GenerateResource.Cache
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\bin\Debug\ProductOf TwoNumber.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\bin\Debug\ProductOf TwoNumber.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\ProductOf TwoNumber\ProductOf TwoNumber\bin\Debug\ProductOf TwoNumber.xml

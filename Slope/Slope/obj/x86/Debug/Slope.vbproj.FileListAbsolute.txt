@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\bin\Debug\Slope.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\bin\Debug\Slope.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\bin\Debug\Slope.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\obj\x86\Debug\Slope.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\obj\x86\Debug\Slope.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\obj\x86\Debug\Slope.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\obj\x86\Debug\Slope.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Slope\obj\x86\Debug\Slope.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\Slope\Slope\obj\x86\Debug\Slope.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\Slope\Slope\obj\x86\Debug\Slope.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\Slope\Slope\obj\x86\Debug\Slope.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\Slope\Slope\bin\Debug\Slope.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\Slope\Slope\bin\Debug\Slope.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\Slope\Slope\bin\Debug\Slope.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\Slope\Slope\obj\x86\Debug\Slope.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\Slope\Slope\obj\x86\Debug\Slope.vbproj.GenerateResource.Cache

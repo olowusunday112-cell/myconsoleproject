@@ -1,0 +1,16 @@
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\bin\Debug\CgpaCalculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\bin\Debug\CgpaCalculator.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\bin\Debug\CgpaCalculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\obj\x86\Debug\CgpaCalculator.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\obj\x86\Debug\CgpaCalculator.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\obj\x86\Debug\CgpaCalculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\obj\x86\Debug\CgpaCalculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\CgpaCalculator\obj\x86\Debug\CgpaCalculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\bin\Debug\CgpaCalculator.exe
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\bin\Debug\CgpaCalculator.pdb
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\bin\Debug\CgpaCalculator.xml
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.Resources.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\CgpaCalculator\CgpaCalculator\obj\x86\Debug\CgpaCalculator.vbproj.GenerateResource.Cache
