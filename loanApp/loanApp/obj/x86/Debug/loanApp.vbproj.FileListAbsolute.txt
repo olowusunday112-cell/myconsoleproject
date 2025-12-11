@@ -9,3 +9,8 @@ C:\Users\HP\AppData\Local\Temporary Projects\loanApp\obj\x86\Debug\loanApp.pdb
 C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\obj\x86\Debug\loanApp.exe
 C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\obj\x86\Debug\loanApp.xml
 C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\obj\x86\Debug\loanApp.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\obj\x86\Debug\loanApp.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\obj\x86\Debug\loanApp.vbproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\bin\Debug\loanApp.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\bin\Debug\loanApp.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\loanApp\loanApp\bin\Debug\loanApp.xml
