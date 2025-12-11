@@ -16,7 +16,7 @@ SecurityCheck:
         Console.Write("= PASSWORD: ")
         Dim pass As String = Console.ReadLine()
 
-        If pass <> "1234" Then
+        If pass <> "olowu" Then
             Console.ForegroundColor = ConsoleColor.Red
             Console.WriteLine("--------------------------------------------")
 
@@ -35,10 +35,11 @@ SecurityCheck:
         Console.WriteLine()
         '===========================================
         Dim loanAmount, loanDuration, fixedInterest As String
-        Dim monthlyRepayment, monthlyInterest(6), monthlyTotal(6), totalInterest, totalRepayment, amount, duration As Double
+        Dim monthlyRepayment, monthlyInterest(6), monthlyTotal(6), totalInterest, totalRepayment, amount, duration, balance As Double
         Dim again As String = "y"
         While again.ToLower() = "y"
-
+            totalInterest = 0
+            totalRepayment = 0
 
             Console.ForegroundColor = ConsoleColor.Green
             Console.WriteLine("LOAN APP CALCULATOR")
@@ -63,7 +64,7 @@ SecurityCheck:
             duration = Val(loanDuration)
             If duration <= 0 Then
                 Console.ForegroundColor = ConsoleColor.Red
-                Console.WriteLine("ERROR!!! Duration must be greater than 0")
+                Console.WriteLine("ERROR!!! Duration must not be greater 0")
                 Console.ResetColor()
                 Continue While
             End If
@@ -75,7 +76,7 @@ SecurityCheck:
             Console.WriteLine("MONTHLY REPAYMENT (NO INTEREST): " & monthlyRepayment.ToString("N2"))
             Console.WriteLine()
 
-            Dim balance As Double = amount
+            balance = amount
 
             For i As Integer = 1 To duration
 
@@ -83,28 +84,29 @@ SecurityCheck:
                 monthlyTotal(i) = monthlyRepayment + monthlyInterest(i)
                 balance -= monthlyRepayment
             Next
+
             Console.ForegroundColor = ConsoleColor.Green
-            Console.WriteLine("{0, -10} {1, -20} {2, -20}{3, -20}", "Month", "Monthly Repayment", "Interest", "Total Payment")
-            Console.WriteLine(New String("-", 70))
+            Console.WriteLine("{0, -15} {1, 20} {2, 20}{3, 25}", "Month", "Monthly Repayment", "Monthly Interest", "Total Monthly Payment")
+            Console.WriteLine(New String("-", 85))
             Console.ResetColor()
 
             For i As Integer = 1 To duration
-                Console.WriteLine("{0, -10}{1, -20:N2}{2, -20:N2}{3,-20:N2}", i, monthlyRepayment, monthlyInterest(i), monthlyTotal(i))
+                Console.WriteLine("{0, -15}{1, 20:N2}{2, 20:N2}{3,25:N2}", i, monthlyRepayment, monthlyInterest(i), monthlyTotal(i))
             Next
-            Console.WriteLine(New String("-", 70))
+            Console.WriteLine(New String("-", 85))
 
             For i As Integer = 1 To duration
                 totalInterest += monthlyInterest(i)
             Next
 
-            Console.WriteLine("TOTAL INTEREST (6 MONTHS): " & totalInterest.ToString("N2"))
+            Console.WriteLine("TOTAL INTEREST :(" & duration & "MONTHS): " & totalInterest.ToString("N2"))
             Console.WriteLine()
 
             For i As Integer = 1 To duration
                 totalRepayment += monthlyTotal(i)
             Next
 
-            Console.WriteLine("TOTAL REPAYMENT ( " & duration & "MONTHS) : " & totalRepayment.ToString("N"))
+            Console.WriteLine("TOTAL REPAYMENT (" & duration & "MONTHS) : " & totalRepayment.ToString("N"))
             Console.WriteLine()
 
             Console.WriteLine("Do you want to calculate another loan? (y / n)")

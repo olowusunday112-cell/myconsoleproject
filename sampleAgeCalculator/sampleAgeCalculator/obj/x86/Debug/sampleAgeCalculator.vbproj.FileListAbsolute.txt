@@ -14,3 +14,6 @@ C:\Users\HP\onedrive\documents\visual studio 2010\Projects\sampleAgeCalculator\s
 C:\Users\HP\onedrive\documents\visual studio 2010\Projects\sampleAgeCalculator\sampleAgeCalculator\bin\Debug\sampleAgeCalculator.xml
 C:\Users\HP\onedrive\documents\visual studio 2010\Projects\sampleAgeCalculator\sampleAgeCalculator\obj\x86\Debug\sampleAgeCalculator.Resources.resources
 C:\Users\HP\onedrive\documents\visual studio 2010\Projects\sampleAgeCalculator\sampleAgeCalculator\obj\x86\Debug\sampleAgeCalculator.vbproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\sampleAgeCalculator\sampleAgeCalculator\obj\x86\Debug\sampleAgeCalculator.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\sampleAgeCalculator\sampleAgeCalculator\obj\x86\Debug\sampleAgeCalculator.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\sampleAgeCalculator\sampleAgeCalculator\obj\x86\Debug\sampleAgeCalculator.pdb
