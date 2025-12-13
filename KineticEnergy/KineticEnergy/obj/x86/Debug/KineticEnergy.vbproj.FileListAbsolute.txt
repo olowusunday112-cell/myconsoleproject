@@ -14,3 +14,11 @@ C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\KineticEnergy\Kinetic
 C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\KineticEnergy\KineticEnergy\bin\Debug\KineticEnergy.xml
 C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\KineticEnergy\KineticEnergy\obj\x86\Debug\KineticEnergy.Resources.resources
 C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\KineticEnergy\KineticEnergy\obj\x86\Debug\KineticEnergy.vbproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\obj\x86\Debug\KineticEnergy.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\obj\x86\Debug\KineticEnergy.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\obj\x86\Debug\KineticEnergy.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\bin\Debug\KineticEnergy.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\bin\Debug\KineticEnergy.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\bin\Debug\KineticEnergy.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\obj\x86\Debug\KineticEnergy.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\KineticEnergy\KineticEnergy\obj\x86\Debug\KineticEnergy.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\bin\Debug\boylesLawCalculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\bin\Debug\boylesLawCalculator.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\bin\Debug\boylesLawCalculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.exe
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.xml
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\boylesLawCalculator\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\boylesLawCalculator\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\boylesLawCalculator\boylesLawCalculator\obj\x86\Debug\boylesLawCalculator.pdb

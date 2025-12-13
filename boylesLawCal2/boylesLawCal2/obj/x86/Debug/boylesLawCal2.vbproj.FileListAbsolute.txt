@@ -1,0 +1,11 @@
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\bin\Debug\boylesLawCal2.exe
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\bin\Debug\boylesLawCal2.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\bin\Debug\boylesLawCal2.xml
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\obj\x86\Debug\boylesLawCal2.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\obj\x86\Debug\boylesLawCal2.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\obj\x86\Debug\boylesLawCal2.exe
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\obj\x86\Debug\boylesLawCal2.xml
+C:\Users\HP\AppData\Local\Temporary Projects\boylesLawCal2\obj\x86\Debug\boylesLawCal2.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\boylesLawCal2\boylesLawCal2\obj\x86\Debug\boylesLawCal2.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\boylesLawCal2\boylesLawCal2\obj\x86\Debug\boylesLawCal2.xml
+C:\Users\HP\OneDrive\Documents\Visual Studio 2010\Projects\myconsoleproject\boylesLawCal2\boylesLawCal2\obj\x86\Debug\boylesLawCal2.pdb

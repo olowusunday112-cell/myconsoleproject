@@ -1,4 +1,5 @@
-﻿Module Module1
+﻿
+Module module1
 
 
 
@@ -35,7 +36,7 @@ SecurityCheck:
         Console.WriteLine()
         '===========================================
         Dim loanAmount, loanDuration, fixedInterest As String
-        Dim monthlyRepayment, monthlyInterest(6), monthlyTotal(6), totalInterest, totalRepayment, amount, duration, balance As Double
+        Dim monthlyRepayment, monthlyInterest(365), monthlyTotal(365), totalInterest, totalRepayment, totalLoanRepayment, amount, duration, balance As Double
         Dim again As String = "y"
         While again.ToLower() = "y"
             totalInterest = 0
@@ -47,7 +48,7 @@ SecurityCheck:
             Console.WriteLine("------------------------")
 
 
-            Console.WriteLine(" ENTER YOUR LOAN AMOUNT ")
+            Console.WriteLine("ENTER YOUR LOAN AMOUNT ")
             loanAmount = Console.ReadLine()
             amount = Val(loanAmount)
             If amount <= 0 Then
@@ -59,7 +60,7 @@ SecurityCheck:
             Console.WriteLine("------------------------")
 
 
-            Console.WriteLine(" ENTER YOUR LOAN DURATION (MONTHS) ")
+            Console.WriteLine("ENTER YOUR LOAN DURATION (MONTHS) ")
             loanDuration = Console.ReadLine()
             duration = Val(loanDuration)
             If duration <= 0 Then
@@ -96,7 +97,14 @@ SecurityCheck:
             Console.WriteLine(New String("-", 85))
 
             For i As Integer = 1 To duration
+                totalLoanRepayment = loanAmount
+
+            Next
+
+            Console.WriteLine("TOTAL LOAN " & totalLoanRepayment.ToString("N2"))
+            For i As Integer = 1 To duration
                 totalInterest += monthlyInterest(i)
+
             Next
 
             Console.WriteLine("TOTAL INTEREST :(" & duration & "MONTHS): " & totalInterest.ToString("N2"))
