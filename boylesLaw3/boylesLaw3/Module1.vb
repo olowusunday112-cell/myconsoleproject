@@ -1,13 +1,13 @@
 ﻿Module Module1
     Sub Main()
 
-        Dim firstPressure, firstVolume, secondPressure, secondVolume As Double
+        Dim initailPressure, initialVolume, finalPressure, finalVolume As Double
         Dim choice As Integer
         Dim userInput As String = "yes"
 
         Do Until userInput.ToLower() = "no"
 
-            Console.Clear()
+
 
             Console.ForegroundColor = ConsoleColor.Green
             Console.WriteLine("BOYLE'S LAW CALCULATOR")
@@ -18,10 +18,10 @@
 
             Console.ForegroundColor = ConsoleColor.Yellow
             Console.WriteLine("SELECT WHAT YOU WANT TO CALCULATE")
-            Console.WriteLine("1 - First Pressure (P1)")
-            Console.WriteLine("2 - First Volume (V1)")
-            Console.WriteLine("3 - Second Pressure (P2)")
-            Console.WriteLine("4 - Second Volume (V2)")
+            Console.WriteLine("1 - Initial Pressure (P1)")
+            Console.WriteLine("2 - Initial Volume (V1)")
+            Console.WriteLine("3 - Final Pressure (P2)")
+            Console.WriteLine("4 - Final Volume (V2)")
             Console.WriteLine("--------------------------------------")
             Console.WriteLine("ENTER YOUR CHOICE: ")
             Console.ResetColor()
@@ -37,28 +37,28 @@
                 Console.ForegroundColor = ConsoleColor.Yellow
                 Console.WriteLine()
                 Console.WriteLine("CALCULATING FIRST PRESSURE (P1)")
-                Console.WriteLine("ENTER SECOND PRESSURE (P2): ")
+                Console.WriteLine("ENTER FINAL PRESSURE (P2): ")
                 Console.ResetColor()
-                secondPressure = Val(Console.ReadLine())
+                finalPressure = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.WriteLine("ENTER SECOND VOLUME (V2): ")
+                Console.WriteLine("ENTER FINAL VOLUME (V2): ")
                 Console.ResetColor()
-                secondVolume = Val(Console.ReadLine())
+                finalVolume = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.WriteLine("ENTER FIRST VOLUME (V1): ")
+                Console.WriteLine("ENTER INITAIL VOLUME (V1): ")
                 Console.ResetColor()
-                firstVolume = Val(Console.ReadLine())
+                initialVolume = Val(Console.ReadLine())
 
-                If firstVolume = 0 Then
+                If initialVolume = 0 Then
                     Console.ForegroundColor = ConsoleColor.Red
                     Console.WriteLine("ERROR! V1 CANNOT BE ZERO.")
                     Console.ResetColor()
                 Else
-                    firstPressure = (secondPressure * secondVolume) / firstVolume
+                    initailPressure = (finalPressure * finalVolume) / initialVolume
                     Console.ForegroundColor = ConsoleColor.Green
-                    Console.WriteLine("P1 = " & Math.Round(firstPressure, 2) & " atm")
+                    Console.WriteLine("P1 = " & Math.Round(initailPressure, 2) & " atm")
                     Console.ResetColor()
                 End If
 
@@ -66,28 +66,28 @@
                 Console.ForegroundColor = ConsoleColor.Yellow
                 Console.WriteLine()
                 Console.WriteLine("CALCULATING FIRST VOLUME (V1)")
-                Console.Write("ENTER SECOND PRESSURE (P2): ")
+                Console.Write("ENTER FINAL PRESSURE (P2): ")
                 Console.ResetColor()
-                secondPressure = Val(Console.ReadLine())
+                finalPressure = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.Write("ENTER SECOND VOLUME (V2): ")
+                Console.Write("ENTER FINAL VOLUME (V2): ")
                 Console.ResetColor()
-                secondVolume = Val(Console.ReadLine())
+                finalVolume = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.WriteLine("ENTER FIRST PRESSURE (P1): ")
+                Console.WriteLine("ENTER INITAIL PRESSURE (P1): ")
                 Console.ResetColor()
-                firstPressure = Val(Console.ReadLine())
+                initailPressure = Val(Console.ReadLine())
 
-                If firstPressure = 0 Then
+                If initailPressure = 0 Then
                     Console.ForegroundColor = ConsoleColor.Red
                     Console.WriteLine("ERROR! P1 CANNOT BE ZERO.")
                     Console.ResetColor()
                 Else
-                    firstVolume = (secondPressure * secondVolume) / firstPressure
+                    initialVolume = (finalPressure * finalVolume) / initailPressure
                     Console.ForegroundColor = ConsoleColor.Green
-                    Console.WriteLine("V1 = " & Math.Round(firstVolume, 2) & " cm³")
+                    Console.WriteLine("V1 = " & Math.Round(initialVolume, 2) & " cm³")
                     Console.ResetColor()
                 End If
 
@@ -95,28 +95,28 @@
                 Console.ForegroundColor = ConsoleColor.Yellow
                 Console.WriteLine()
                 Console.WriteLine("CALCULATING SECOND PRESSURE (P2)")
-                Console.WriteLine("ENTER FIRST PRESSURE (P1): ")
+                Console.WriteLine("ENTER INITAIL PRESSURE (P1): ")
                 Console.ResetColor()
-                firstPressure = Val(Console.ReadLine())
+                initailPressure = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.WriteLine("ENTER FIRST VOLUME (V1): ")
+                Console.WriteLine("ENTER INITAIL VOLUME (V1): ")
                 Console.ResetColor()
-                firstVolume = Val(Console.ReadLine())
+                initialVolume = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.WriteLine("ENTER SECOND VOLUME (V2): ")
+                Console.WriteLine("ENTER FINAL VOLUME (V2): ")
                 Console.ResetColor()
-                secondVolume = Val(Console.ReadLine())
+                finalVolume = Val(Console.ReadLine())
 
-                If secondVolume = 0 Then
+                If finalVolume = 0 Then
                     Console.ForegroundColor = ConsoleColor.Red
                     Console.WriteLine("ERROR! V2 CANNOT BE ZERO.")
                     Console.ResetColor()
                 Else
-                    secondPressure = (firstPressure * firstVolume) / secondVolume
+                    finalPressure = (initailPressure * initialVolume) / finalVolume
                     Console.ForegroundColor = ConsoleColor.Green
-                    Console.WriteLine("P2 = " & Math.Round(secondPressure, 2) & " atm")
+                    Console.WriteLine("P2 = " & Math.Round(finalPressure, 2) & " atm")
                     Console.ResetColor()
                 End If
 
@@ -124,28 +124,28 @@
                 Console.ForegroundColor = ConsoleColor.Yellow
                 Console.WriteLine()
                 Console.WriteLine("CALCULATING SECOND VOLUME (V2)")
-                Console.WriteLine("ENTER FIRST PRESSURE (P1): ")
+                Console.WriteLine("ENTER INITAIL PRESSURE (P1): ")
                 Console.ResetColor()
-                firstPressure = Val(Console.ReadLine())
+                initailPressure = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.WriteLine("ENTER FIRST VOLUME (V1): ")
+                Console.WriteLine("ENTER INITAIL VOLUME (V1): ")
                 Console.ResetColor()
-                firstVolume = Val(Console.ReadLine())
+                initialVolume = Val(Console.ReadLine())
 
                 Console.ForegroundColor = ConsoleColor.Yellow
-                Console.WriteLine("ENTER SECOND PRESSURE (P2): ")
+                Console.WriteLine("ENTER FINAL PRESSURE (P2): ")
                 Console.ResetColor()
-                secondPressure = Val(Console.ReadLine())
+                finalPressure = Val(Console.ReadLine())
 
-                If secondPressure = 0 Then
+                If finalPressure = 0 Then
                     Console.ForegroundColor = ConsoleColor.Red
                     Console.WriteLine("ERROR! P2 CANNOT BE ZERO.")
                     Console.ResetColor()
                 Else
-                    secondVolume = (firstPressure * firstVolume) / secondPressure
+                    finalVolume = (initailPressure * initialVolume) / finalPressure
                     Console.ForegroundColor = ConsoleColor.Green
-                    Console.WriteLine("V2 = " & Math.Round(secondVolume, 2) & " cm³")
+                    Console.WriteLine("V2 = " & Math.Round(finalVolume, 2) & " cm³")
                     Console.ResetColor()
                 End If
             End If

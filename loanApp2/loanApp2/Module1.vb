@@ -8,7 +8,7 @@ Module module1
         Console.ResetColor()
         Console.WriteLine()
         '===========================================
-        Dim loanAmount, loanDuration, fixedInterest As Double
+        Dim loanAmount, loanDuration, fixedInterest As Integer
         Dim monthlyRepayment, monthlyInterest, monthlyTotal, totalInterest, totalRepayment, duration, balance As Double
         Dim again As String = "y"
         While again.ToLower() = "y"
