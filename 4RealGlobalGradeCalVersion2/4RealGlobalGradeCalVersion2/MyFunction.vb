@@ -1,8 +1,5 @@
 ﻿Module MyFunction
 
-    Public Sub sayhello()
-        Console.WriteLine("HELLO, How are you? ")
-    End Sub
 
     Function gradepoint(ByVal score As Double, ByVal courseUnit As Double)
         Dim gp As Double
